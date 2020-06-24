@@ -25,7 +25,7 @@ python snake.py
 
 ## Jogo
 <center>
-![](gift/game-snake.gif)
+![](https://github.com/muriloms/pygame-snake-game/blob/master/gift/game-snake.gif)
 </center>
 # Game over
 <center>
