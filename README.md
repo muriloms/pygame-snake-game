@@ -24,10 +24,11 @@ python snake.py
 - a ou seta para esquerda:  LEFT
 
 ## Jogo
-<center>
-![](https://github.com/muriloms/pygame-snake-game/blob/master/gift/game-snake.gif)
-</center>
+
+![gift1](gift/game-snake.gif)
+
+
 # Game over
-<center>
+
 ![](gift/game-snake-game-over.gif)
-</center>
+
